@@ -42,6 +42,5 @@
         height="40"/> </a>
    </br>
    <h2>Some of My work</h2>
-  - <a href="https://my-watch-store-app.vercel.app/" class="url" title="" target="_blank">Watch Store</a> </br>
   - <a href="https://job-posting-website.vercel.app/" class="url" title="" target="_blank">Job Posting Site</a>
   
